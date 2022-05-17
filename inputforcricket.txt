@@ -1,0 +1,15 @@
+punjab
+chennai
+smith dhawan agarwal patel singh
+dhoni conway rayudu bravo jadeja
+0 1 0Wd 1 6 0 1
+W 0 0 2 1 1
+1 2 2 4 0 1
+4 4 2 0Nb 6 4 W
+
+0 0 1 4 2 0
+0 1 6 W 0 0
+4 4 6 0Wd 1 1 1
+0Nb 4 2 1 0 W
+
+
